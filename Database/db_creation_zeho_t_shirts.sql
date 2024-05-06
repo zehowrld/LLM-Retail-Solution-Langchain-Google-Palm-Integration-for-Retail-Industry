@@ -1,6 +1,6 @@
 -- Create the database
-CREATE DATABASE atliq_tshirts;
-USE atliq_tshirts;
+CREATE DATABASE zeho_tshirts;
+USE zeho_tshirts;
 
 -- Create the t_shirts table
 CREATE TABLE t_shirts (
