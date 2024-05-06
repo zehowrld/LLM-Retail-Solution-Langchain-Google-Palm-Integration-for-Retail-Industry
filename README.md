@@ -1,0 +1,1 @@
+# LLM-Retail-Solution-Langchain-Google-Palm-Integration-for-Retail-Industry
