@@ -84,3 +84,4 @@ def get_few_shot_db_chain():
     )
     chain = SQLDatabaseChain.from_llm(llm, db, verbose=True, prompt=few_shot_prompt,return_direct=True,return_intermediate_steps=True)
     return chain
+
