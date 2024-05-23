@@ -16,7 +16,7 @@ The system is intelligent enough to generate accurate queries for given question
   - Google Generative AI Embeddings
   - Streamlit for UI
   - Langchain framework
-  - FAISS for vector store
+  - Chroma DB for vector store
   - Few-shot learning
 
 In the UI, the store manager will ask questions in natural language, and it will produce the answers.
